@@ -17,18 +17,23 @@ A responsive Netflix homepage clone built using HTML and CSS.
 
 ## Screenshots
 
-### Desktop View
+## Desktop View
 
-![Desktop](screenshots/desktop-view1.png)
-![Desktop](screenshots/desktop-view2.png)
-![Desktop](screenshots/desktop-view3.png)
+![Desktop 1](assets/screenshots/desktop-view1.png)
 
-### Mobile View
+![Desktop 2](assets/screenshots/desktop-view2.png)
 
-![Mobile](screenshots/mobile-view1.png)
-![Mobile](screenshots/mobile-view2.png)
-![Mobile](screenshots/mobile-view3.png)
-![Mobile](screenshots/mobile-view4.png)
+![Desktop 3](assets/screenshots/desktop-view3.png)
+
+## Mobile View
+
+![Mobile 1](assets/screenshots/mobile-view1.png)
+
+![Mobile 2](assets/screenshots/mobile-view2.png)
+
+![Mobile 3](assets/screenshots/mobile-view3.png)
+
+![Mobile 4](assets/screenshots/mobile-view4.png)
 
 
 ## Author
