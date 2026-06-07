@@ -4,12 +4,12 @@ A fully responsive Netflix-inspired homepage built using HTML and CSS. This proj
 
 ## Features
 
--Responsive design for desktop, tablet, and mobile devices
--Netflix-inspired modern user interface
--Interactive hover effects
--Structured and reusable CSS styling
--Mobile-friendly navigation and layout
--Clean and organized project structure
+- Responsive design for desktop, tablet, and mobile devices
+- Netflix-inspired modern user interface
+- Interactive hover effects
+- Structured and reusable CSS styling
+- Mobile-friendly navigation and layout
+- Clean and organized project structure
 
 ## Tech Stack
 
@@ -38,11 +38,11 @@ A fully responsive Netflix-inspired homepage built using HTML and CSS. This proj
 
 ## What I Learned
 
--Building responsive layouts using CSS
--Working with Flexbox and Grid
--Creating modern UI components
--Improving code organization and maintainability
--Adapting designs for multiple screen sizes
+- Building responsive layouts using CSS
+- Working with Flexbox and Grid
+- Creating modern UI components
+- Improving code organization and maintainability
+- Adapting designs for multiple screen sizes
 
 ## Author
 
