@@ -1,14 +1,15 @@
 # Netflix Homepage Clone
 
-A responsive Netflix homepage clone built using HTML and CSS.
+A fully responsive Netflix-inspired homepage built using HTML and CSS. This project replicates the modern user interface of Netflix, including the hero section, navigation bar, feature highlights, FAQ section, and responsive layouts for different screen sizes.
 
 ## Features
 
-- Responsive Design
-- Modern Netflix UI
-- Mobile Friendly Layout
-- Hover Effects
-- Hero Section
+-Responsive design for desktop, tablet, and mobile devices
+-Netflix-inspired modern user interface
+-Interactive hover effects
+-Structured and reusable CSS styling
+-Mobile-friendly navigation and layout
+-Clean and organized project structure
 
 ## Tech Stack
 
@@ -35,6 +36,13 @@ A responsive Netflix homepage clone built using HTML and CSS.
 
 ![Mobile 4](assets/screenshots/mobile-view4.png)
 
+## What I Learned
+
+-Building responsive layouts using CSS
+-Working with Flexbox and Grid
+-Creating modern UI components
+-Improving code organization and maintainability
+-Adapting designs for multiple screen sizes
 
 ## Author
 
